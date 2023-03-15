@@ -1,0 +1,8 @@
+Check versions of NPM and NodeJS with 
+node -v
+npm -v
+
+
+--------------
+npm install --> installs package-lock.json
+npm init -y --> initiates the package .json
